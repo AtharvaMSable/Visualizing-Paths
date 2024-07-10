@@ -13,5 +13,3 @@
   - Press Reset to reset everything
   - Added a maze Generation option too.
  
-## Example:
-  <img src="example.gif" width="800" height="400" />
